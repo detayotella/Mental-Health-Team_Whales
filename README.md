@@ -17,4 +17,6 @@ The relationship between the categorical columns using crosstab and stacked bar 
 The relationship between multiple variables using scatter plots
 The distribution of the numerical columns using density plots
 The relationship between the categorical and numerical columns using swarm plots
-The effect of mental health on students' CGPA
+The effect of mental health on students' CGPA.
+
+
